@@ -1,0 +1,10 @@
+flask
+google-generativeai
+python-dotenv
+transformers
+torch
+numpy
+pandas
+requests
+# For financial and Hinglish models
+sentencepiece
